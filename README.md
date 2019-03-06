@@ -8,7 +8,7 @@ You can install the released version of note from [CRAN](https://CRAN.R-project.
 
 ``` r
 install.packages("note")
-
+this does not work now.
 ```
 
 ## Example
